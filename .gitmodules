@@ -1,3 +1,0 @@
-[submodule "net/wireguard"]
-	path = net/wireguard
-	url = https://github.com/syphyr/wireguard-linux-compat
